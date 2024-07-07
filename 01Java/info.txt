@@ -1,0 +1,10 @@
+ byte age;
+        short currentAgeInWeeks;
+        int wallet;
+        long currentAgeInMS;
+
+        float Account;
+        double pi;
+
+        char gender;
+        boolean isMarried;
